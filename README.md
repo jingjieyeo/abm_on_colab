@@ -46,9 +46,6 @@ These resources are ideal for classroom use, workshops, or self-guided explorati
 - **3. Bacterial Growth and Division:**  
   Model of bacterial population dynamics, including resource consumption and cell division.
 
-- **4. Biofilm Formation:**  
-  Advanced model showing how bacteria communicate and form structured communities.
-
 ---
 
 ## Getting Started
